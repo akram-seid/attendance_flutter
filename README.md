@@ -1,4 +1,4 @@
-# retrofit_flutter
+# Flutter Attendance project
 
 A new Flutter project.
 
